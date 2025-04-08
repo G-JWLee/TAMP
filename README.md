@@ -9,11 +9,10 @@
 Multimodal Large Language Models (MLLMs) have grown in size to address the complexities of multimodal tasks. While beneficial for performance, their colossal model size imposes substantial computational and memory resources, limiting their practicality in resource-constrained scenarios.
 Post-training model pruning effectively reduces model size by removing a massive number of parameters without compromising performance. However, most existing model compression techniques assume unimodal models, limiting their effectiveness in multimodal settings. 
 
-We propose TAMP (Token-Adaptive Multimodal Pruning), an effective MLLM pruning pipleine that leverages multimodal token attributes to meausre layer importance for layer-wise sparsity (DAS) and computes adaptive input activations for capturing multimodal processing demands at each layer (AMIA).
-
 <center><img src="assets/concept_figure.png" alt="Teaser" width="100%"></center>
 <p>
 
+We propose TAMP (Token-Adaptive Multimodal Pruning), an effective MLLM pruning pipleine that leverages multimodal token attributes to meausre layer importance for layer-wise sparsity (DAS) and computes adaptive input activations for capturing multimodal processing demands at each layer (AMIA).
 Our method utilizes multimodal token attributes to guide MLLM pruning.
 
 </p>
