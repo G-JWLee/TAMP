@@ -2,7 +2,7 @@
 
 ### **TAMP: Token-Adaptive Layerwise Pruning in Multimodal Large Language Models, preprint**
 * Authors: [Jaewoo Lee](https://g-jwlee.github.io/), [Keyang Xuan](https://keyangds.github.io/), [Chanakya Ekbote](https://chanakyaekbote.netlify.app/), [Sandeep Polsetty](https://sandeep06011991.github.io/), [Yi R. (May) Fung](https://mayrfung.github.io/), [Paul Pu Liang](https://pliang279.github.io/)
-* [Paper](TBD)
+* [Paper](https://arxiv.org/abs/2504.09897)
 
 ## Introduction
 
@@ -62,6 +62,6 @@ Evaluate the pruned models with the official LLaVA-NeXT evaluation pipeline [Vid
       title={TAMP: Token-Adaptive Layerwise Pruning in Multimodal Large Language Models},
       author={Jaewoo Lee and Keyang Xuan and Chanakya Ekbote and Sandeep Polisetty and Yi R. (May) Fung and Paul Pu Liang},
       year={2025},
-      journal={arXiv preprint arXiv},
+      journal={arXiv preprint arXiv:2504.09897},
 }
 ```
